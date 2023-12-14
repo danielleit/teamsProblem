@@ -13,7 +13,7 @@ Dada uma lista de alunos que serão escolhidos e seus respectivos níveis de
 habilidade para os times e a quantidade de times que serão formados, mostre como
 ficarão os times ao final do processo de montagem dos mesmos.
 
-##Entrada
+## Entrada
 A primeira linha da entrada contém dois inteiros N (2 ≤ N ≤ 10.000) e T (2 ≤ T ≤
 1000), representando respectivamente a quantidade de alunos e o número de times
 a serem formados, sendo T ≤ N. As N linhas seguintes descrevem, cada uma, um
@@ -24,7 +24,7 @@ Não existem dois alunos com o mesmo nível de habilidade, e todos eles possuem
 nomes diferentes. é possível que alguns times acabem ficando com menos
 jogadores do que os outros.
 
-##Saída
+## Saída
 Seu programa deve imprimir a lista de times que será formada ao final do processo
 de seleção. Para cada time, você deverá mostrar o termo "Time N", onde N é o número 
 do time (1 para o primeiro, 2 para o segundo, e assim por diante) seguido
